@@ -1,6 +1,8 @@
 # MalariaProject
 This project was developed in partnership with Prof. Yosi Shibbru.
 
+The result of this project was presented on ISCB Africa ASCBCB Conference on Bioinformatics, March 9-11, 2015, Daressalaam, Tanzania and BLACK IN AI WORKSHOP co-located with NIPS 2018 at the Palais des Congrès de Montréal (Montreal Convention Centre) in Montréal CANADA on December 7th. 2018.
+
 About Malaria
 
 Only 60 of the 450 known species of Anopheles mosquito transmit malaria. The genetic diversity of these 60 mosquitoes with respect to the other 390 non- transmitters suggests that the capacity to transmit malaria was acquired independently for each species through a process of convergent evolution. Despite a complex process of species, co-evolution of Plasmodium parasites and corresponding Anopheles mosquitoes, some interactions are believed to be conserved across all parasite-mosquito combinations that support malaria transmission.
